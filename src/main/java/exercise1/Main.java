@@ -12,6 +12,7 @@ public class Main {
         System.out.println(ret);
         System.out.println("程序结束");
 
+
     }
 
     public static String MakeFormula(){
