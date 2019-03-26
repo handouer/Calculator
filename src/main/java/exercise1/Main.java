@@ -11,6 +11,7 @@ public class Main {
         String ret = Solve(question);
         System.out.println(ret);
         System.out.println("程序结束");
+
     }
 
     public static String MakeFormula(){
